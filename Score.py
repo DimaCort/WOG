@@ -11,3 +11,4 @@ def add_score(game_def):
     curr_score += game_def * 3 + 5
     with open(Utils.SCORES_FILE_NAME, 'w') as f:
         f.write(str(curr_score))
+

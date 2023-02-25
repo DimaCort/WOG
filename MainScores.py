@@ -27,3 +27,7 @@ def show_score():
         <h1><div id="score">{score}</div></h1>
         </body>
         </html>'''
+
+
+if __name__ == '__main__':
+    app.run(debug=True, port=80, host='0.0.0.0')

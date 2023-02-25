@@ -1,2 +1,4 @@
 /Scores.txt
 /venv/
+/.idea/
+/tests/chromedriver.exe
