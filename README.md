@@ -1,0 +1,2 @@
+# WOG
+small console game
